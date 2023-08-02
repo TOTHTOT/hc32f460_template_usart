@@ -1,0 +1,4 @@
+*** Using Compiler 'V5.06 update 1 (build 61)', folder: 'D:\WorkSoft\MDK\core\ARM\ARMCC\Bin'
+Build target 'uart_irq_timeout_Debug'
+".\output\debug\uart_irq_timeout.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:00
